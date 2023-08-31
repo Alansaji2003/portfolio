@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/background.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "set of rocks";
 
 /**
  * Project list
@@ -31,28 +31,26 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Side Swipe Javascipt Game",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "made sideswipe game with vanilla javascript with the help of freeCodeCamp",
+    url: "https://alansaji2003.github.io/javascript-game/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Web Development",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Done many small projects on web development in 100 days of code challenge",
+    url: "https://github.com/Alansaji2003/100-days-of-code",
   },
   {
-    title: "My Resume Site",
-    description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    title: "Python Projects",
+    description: "Doing python projects in 100 days of code challenge",
+    url: "https://github.com/Alansaji2003/100daysofpython",
   },
   {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+    title: "Machine Learning with R",
+    description: "Completed Machine Learning Course with R",
+    url: "https://www.udemy.com/certificate/UC-727bcb10-2e03-46fc-9f4f-b5685e060433/",
   },
 ];
 
