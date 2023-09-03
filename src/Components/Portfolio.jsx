@@ -39,7 +39,7 @@ const projectList = [
   {
     title: "Web Development",
     description:
-      "Done many small projects on web development in 100 days of code challenge",
+      "Done many small projects on web development in 100daysofcode challenge",
     url: "https://github.com/Alansaji2003/100-days-of-code",
   },
   {
