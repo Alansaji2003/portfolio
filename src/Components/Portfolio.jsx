@@ -52,6 +52,11 @@ const projectList = [
     description: "Completed Machine Learning Course with R",
     url: "https://www.udemy.com/certificate/UC-727bcb10-2e03-46fc-9f4f-b5685e060433/",
   },
+  {
+    title: "Other mini projects",
+    description: "Other mini projects on web dev and python on my twitter",
+    url: "https://twitter.com/AlanSaji2003",
+  },
 ];
 
 const Portfolio = () => {
